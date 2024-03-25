@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { TransactionResponse } from '@ethersproject/providers'
 import { Currency, CurrencyAmount, Percent } from '@uniswap/sdk-core'
@@ -554,8 +555,8 @@ export default function AddLiquidity({
   return (
     <>
       <ScrollablePage>
-        <AddLiquidityNetworkAlert />
-        <OptimismDowntimeWarning />
+        {/* <AddLiquidityNetworkAlert />
+        <OptimismDowntimeWarning /> */}
         <TransactionConfirmationModal
           isOpen={showConfirm}
           onDismiss={handleDismissConfirmation}

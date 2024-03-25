@@ -12,6 +12,8 @@ export enum SupportedChainId {
   ARBITRUM_RINKEBY = 421611,
   OPTIMISM = 10,
   OPTIMISTIC_KOVAN = 69,
+
+  BLAST_SEPOLIA = 168587773,
 }
 
 export const ALL_SUPPORTED_CHAIN_IDS: SupportedChainId[] = [
@@ -25,6 +27,7 @@ export const ALL_SUPPORTED_CHAIN_IDS: SupportedChainId[] = [
   SupportedChainId.ARBITRUM_RINKEBY,
   SupportedChainId.OPTIMISM,
   SupportedChainId.OPTIMISTIC_KOVAN,
+  SupportedChainId.BLAST_SEPOLIA,
 ]
 
 export const L1_CHAIN_IDS = [
@@ -33,6 +36,7 @@ export const L1_CHAIN_IDS = [
   SupportedChainId.RINKEBY,
   SupportedChainId.GOERLI,
   SupportedChainId.KOVAN,
+  SupportedChainId.BLAST_SEPOLIA,
 ] as const
 
 export type SupportedL1ChainId = typeof L1_CHAIN_IDS[number]
@@ -124,5 +128,11 @@ export const CHAIN_INFO: ChainInfo = {
     infoLink: 'https://info.uniswap.org/#/optimism',
     label: 'Optimistic Kovan',
     logoUrl: optimismLogoUrl,
+  },
+  [SupportedChainId.BLAST_SEPOLIA]: {
+    docs: '',
+    explorer: 'https://sepolia.blastscan.io/',
+    infoLink: '',
+    label: 'Blast Sepolia',
   },
 }

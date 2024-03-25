@@ -1,4 +1,5 @@
-import DEFAULT_TOKEN_LIST from '@uniswap/default-token-list'
+// import DEFAULT_TOKEN_LIST from '@uniswap/default-token-list'
+import DEFAULT_TOKEN_LIST from '../../constants/tokenLists/default-tokenlist.json'
 import { TokenList } from '@uniswap/token-lists'
 import { IS_ON_APP_URL } from 'constants/misc'
 import { useMemo } from 'react'

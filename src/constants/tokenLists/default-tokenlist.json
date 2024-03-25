@@ -1,0 +1,106 @@
+{
+  "name": "DEX",
+  "logoURI": "https://res.cloudinary.com/dxouzehk9/image/upload/v1703525142/HyperBlast/blast_a5fohc.webp",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2023-12-25T15:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000003",
+      "name": "Rebasing USD",
+      "symbol": "USDB",
+      "decimals": 18
+    },
+    {
+      "chainId": 81457,
+      "address": "0x1B0cC80F4E2A7d205518A1Bf36de5bED686662FE",
+      "name": "Bolt",
+      "symbol": "BOLT",
+      "decimals": 18
+    },
+    {
+      "chainId": 81457,
+      "address": "0x9FE9991dAF6b9a5d79280F48cbb6827D46DE2EA4",
+      "name": "HyperBlast",
+      "symbol": "HYPE",
+      "decimals": 9
+    },
+    {
+      "chainId": 81457,
+      "address": "0xbfA3062816BCA5FF047450b90E10fE6b10A697aD",
+      "name": "Blasty",
+      "symbol": "BLASTY",
+      "decimals": 18
+    },
+    {
+      "chainId": 81457,
+      "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+      "name": "Blast Inu",
+      "symbol": "BINU",
+      "decimals": 9
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x44B3CD8ed402bd3446Ee798Ac01F2e15ca0961dE",
+      "name": "HYPE",
+      "symbol": "HYPE",
+      "decimals": 9
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x4200000000000000000000000000000000000023",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x4200000000000000000000000000000000000022",
+      "name": "Rebasing USD",
+      "symbol": "USDB",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x1B0cC80F4E2A7d205518A1Bf36de5bED686662FE",
+      "name": "Bolt",
+      "symbol": "BOLT",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "address": "0xA843520d406cfF0D648E4F6B6833C987ccB9Ef14",
+      "name": "Ignite",
+      "symbol": "IGN",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x169B78d102a054107E299ef266EB46A1b821707D",
+      "name": "joyclub.tech",
+      "symbol": "joyclub.tech",
+      "decimals": 18
+    },
+    {
+      "chainId": 168587773,
+      "address": "0x0ED86ea88Db19c9cE81C55d8a28d5B5Bcf761183",
+      "name": "TBlast Doge",
+      "symbol": "TBDOGE",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}

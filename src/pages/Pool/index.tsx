@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Trans } from '@lingui/macro'
 import { ButtonGray, ButtonOutlined, ButtonPrimary } from 'components/Button'
 import { AutoColumn } from 'components/Column'
@@ -220,9 +221,9 @@ export default function Pool() {
               </ButtonRow>
             </TitleRow>
 
-            <HideSmall>
+            {/* <HideSmall>
               <CTACards />
-            </HideSmall>
+            </HideSmall> */}
 
             <MainContentWrapper>
               {positionsLoading ? (
