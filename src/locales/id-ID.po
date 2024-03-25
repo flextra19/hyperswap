@@ -229,8 +229,8 @@ msgid "Amount"
 msgstr "Jumlah"
 
 #: src/hooks/useSwapCallback.ts
-msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Terjadi kesalahan saat mencoba menjalankan swap ini. Anda mungkin perlu meningkatkan toleransi selip Anda. Jika itu tidak berhasil, mungkin ada ketidakcocokan dengan token yang Anda perdagangkan. Catatan: biaya transfer dan token rebase tidak sesuai dengan Uniswap V3."
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with HypeBlast V3."
+msgstr "Terjadi kesalahan saat mencoba menjalankan swap ini. Anda mungkin perlu meningkatkan toleransi selip Anda. Jika itu tidak berhasil, mungkin ada ketidakcocokan dengan token yang Anda perdagangkan. Catatan: biaya transfer dan token rebase tidak sesuai dengan HypeBlast V3."
 
 #: src/components/Menu/index.tsx
 msgid "Analytics"
@@ -780,8 +780,8 @@ msgid "For"
 msgstr "Untuk"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into Uniswap V3."
-msgstr "Untuk tiap pool yang ditunjukkan di bawah ini, klik migrasikan untuk menghapus likuiditas Anda dari Uniswap V2 dan menyimpannya ke Uniswap V3."
+msgid "For each pool shown below, click migrate to remove your liquidity from Uniswap V2 and deposit it into HypeBlast V3."
+msgstr "Untuk tiap pool yang ditunjukkan di bawah ini, klik migrasikan untuk menghapus likuiditas Anda dari Uniswap V2 dan menyimpannya ke HypeBlast V3."
 
 #: src/components/swap/SwapModalHeader.tsx
 #: src/pages/Swap/index.tsx
@@ -1037,8 +1037,8 @@ msgid "Migrate V2 Liquidity"
 msgstr "Migrasikan Likuiditas V2"
 
 #: src/pages/MigrateV2/index.tsx
-msgid "Migrate your liquidity tokens from Uniswap V2 to Uniswap V3."
-msgstr "Migrasikan token likuiditas Anda dari Uniswap V2 ke Uniswap V3."
+msgid "Migrate your liquidity tokens from Uniswap V2 to HypeBlast V3."
+msgstr "Migrasikan token likuiditas Anda dari Uniswap V2 ke HypeBlast V3."
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "Migrating"
@@ -1538,8 +1538,8 @@ msgid "The output token cannot be transferred. There may be an issue with the ou
 msgstr "Token output tidak dapat ditransfer. Mungkin ada masalah dengan token output."
 
 #: src/hooks/useSwapCallback.ts
-msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Token keluaran tidak dapat ditransfer. Mungkin ada masalah dengan token keluaran. Catatan: biaya transfer dan token rebase tidak sesuai dengan Uniswap V3."
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with HypeBlast V3."
+msgstr "Token keluaran tidak dapat ditransfer. Mungkin ada masalah dengan token keluaran. Catatan: biaya transfer dan token rebase tidak sesuai dengan HypeBlast V3."
 
 #: src/components/Badge/RangeBadge.tsx
 msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
@@ -1591,8 +1591,8 @@ msgid "This tool will safely migrate your {0} liquidity to V3. The process is co
 msgstr "Alat ini akan memigrasikan {0} likuiditas Anda ke V3 dengan aman. Prosesnya benar-benar tidak dapat dipercaya berkat"
 
 #: src/hooks/useSwapCallback.ts
-msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Transaksi ini tidak akan berhasil karena pergerakan harga. Coba tingkatkan toleransi selip Anda. Catatan: biaya transfer dan token rebase tidak sesuai dengan Uniswap V3."
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with HypeBlast V3."
+msgstr "Transaksi ini tidak akan berhasil karena pergerakan harga. Coba tingkatkan toleransi selip Anda. Catatan: biaya transfer dan token rebase tidak sesuai dengan HypeBlast V3."
 
 #: src/hooks/useSwapCallback.ts
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
@@ -1744,8 +1744,8 @@ msgid "Unknown Source"
 msgstr "Sumber tidak diketahui"
 
 #: src/hooks/useSwapCallback.ts
-msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
-msgstr "Kesalahan tidak diketahui{0}. Coba tingkatkan toleransi selip Anda. Catatan: biaya transfer dan token rebase tidak sesuai dengan Uniswap V3."
+msgid "Unknown error{0}. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with HypeBlast V3."
+msgstr "Kesalahan tidak diketahui{0}. Coba tingkatkan toleransi selip Anda. Catatan: biaya transfer dan token rebase tidak sesuai dengan HypeBlast V3."
 
 #: src/pages/Vote/VotePage.tsx
 #: src/pages/Vote/index.tsx
@@ -1938,8 +1938,8 @@ msgid "You are creating a pool"
 msgstr "Anda sedang membuat pool"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "You are the first liquidity provider for this Uniswap V3 pool. Your liquidity will migrate at the current {0} price."
-msgstr "Anda adalah penyedia likuiditas pertama untuk pool Uniswap V3 ini. Likuiditas Anda akan bermigrasi pada harga {0} saat ini."
+msgid "You are the first liquidity provider for this HypeBlast V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Anda adalah penyedia likuiditas pertama untuk pool HypeBlast V3 ini. Likuiditas Anda akan bermigrasi pada harga {0} saat ini."
 
 #: src/pages/AddLiquidityV2/index.tsx
 msgid "You are the first liquidity provider."
@@ -1979,8 +1979,8 @@ msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
 msgstr "Anda harus memiliki {formattedProposalThreshold} suara untuk mengajukan proposal"
 
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
-msgid "You should only deposit liquidity into Uniswap V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
-msgstr "Anda hanya boleh menyetorkan likuiditas ke Uniswap V3 dengan harga yang Anda yakini benar. <0/>Jika harga tampak salah, Anda dapat melakukan pertukaran untuk memindahkan harga atau menunggu orang lain melakukannya."
+msgid "You should only deposit liquidity into HypeBlast V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Anda hanya boleh menyetorkan likuiditas ke HypeBlast V3 dengan harga yang Anda yakini benar. <0/>Jika harga tampak salah, Anda dapat melakukan pertukaran untuk memindahkan harga atau menunggu orang lain melakukannya."
 
 #: src/pages/RemoveLiquidity/V3.tsx
 msgid "You will also collect fees earned from this position."
